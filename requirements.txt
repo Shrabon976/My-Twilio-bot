@@ -1,0 +1,2 @@
+pyTelegramBotAPI==4.14.0
+twilio==9.0.1
